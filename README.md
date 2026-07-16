@@ -27,23 +27,24 @@ WeatherWise is a modern, lightweight Python desktop application that fetches and
 Before running the application, ensure you have Python installed on your system along with the required dependencies:
 
 
-🖥️ Application Walkthrough
+
+## 🖥️ Application Walkthrough
 
 ### Home Screen
-![Home Screen](screenshots/01_home.png)
+<img src="screenshots/01_home.png" alt="Home Screen" width="600px">
 
 ### Search Process
-![Result Screen](screenshots/02_search.png)
+<img src="screenshots/02_search.png" alt="Search Process" width="600px">
 
 **Step 1: Select a City**
-* Click on the dropdown menu field located directly below the main WeatherWise title banner.
+* Click on the dropdown menu field located directly below the main **WeatherWise** title banner.
 * Type or select the name of the city you want to check the weather for.
 
 **Step 2: Fetch the Weather**
 * Click the white **Get Weather ☁** button right below the input box.
 
 ### Search Results
-![Result Screen](screenshots/03_result.png)
+<img src="screenshots/03_result.png" alt="Search Results" width="600px">
 
 **Step 3: View the Results**
 Once clicked, the application will pull live data from the API and update the fields below:
@@ -51,4 +52,5 @@ Once clicked, the application will pull live data from the API and update the fi
 * **Description:** Provides a detailed breakdown of the sky conditions.
 * **Temperature:** Displays the current temperature reading.
 * **Pressure:** Shows the atmospheric pressure.
+* **Time:** Displays the exact time and date the data was fetched.
 * **Time:** Displays the exact time and date the data was fetched.
