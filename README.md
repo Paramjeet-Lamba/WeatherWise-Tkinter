@@ -16,7 +16,7 @@ WeatherWise is a Python desktop application that integrates a weather API to dis
 * Click the white **Get Weather ☁** button right below the input box.
 
 ### Search Results
-![Result Screen](screenshots/04_result.png)
+![Result Screen](screenshots/03_result.png)
 
 **Step 3: View the Results**
 Once clicked, the application will pull live data from the API and update the fields below:
