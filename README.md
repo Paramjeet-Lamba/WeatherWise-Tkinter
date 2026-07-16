@@ -3,13 +3,13 @@ WeatherWise is a Python desktop application that integrates a weather API to dis
 
 
 ### Home Screen
-!Home Screen](screenshots/01_home.png)
+![Home Screen](screenshots/01_home.png)
 
 ### Search Process
-!Result Screen](screenshots/02_search.png)
+![Result Screen](screenshots/02_search.png)
 
 ### Search Process
-!Result Screen](screenshots/03_search.png)
+![Result Screen](screenshots/03_search.png)
 
 ### Search Results
-!Result Screen](screenshots/04_result.png)
+![Result Screen](screenshots/04_result.png)
