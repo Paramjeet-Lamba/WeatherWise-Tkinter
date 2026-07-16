@@ -26,12 +26,6 @@ WeatherWise is a modern, lightweight Python desktop application that fetches and
 
 Before running the application, ensure you have Python installed on your system along with the required dependencies:
 
-```bash
-# Verify Python installation (Python 3.x required)
-python --version
-
-# Install the required requests library
-pip install request
 
 🖥️ Application Walkthrough
 
